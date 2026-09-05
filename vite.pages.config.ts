@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/postcss';
 import { fileURLToPath } from 'node:url';
 
 const project = fileURLToPath(new URL('.', import.meta.url));
-const base = '/marmoraria-reis-oliveira/';
+const base = '/marmorariareisoliveira/';
 
 export default defineConfig({
   root: `${project}pages`,

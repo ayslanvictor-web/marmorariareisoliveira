@@ -2,7 +2,7 @@
 
 Proposta de site com experiência 3D, projetos, catálogo de referências, filtros e contato pelo WhatsApp.
 
-**Apresentação:** https://ayslanvictor-web.github.io/marmoraria-reis-oliveira/
+**Apresentação:** https://ayslanvictor-web.github.io/marmorariareisoliveira/
 
 ## Desenvolvimento
 
